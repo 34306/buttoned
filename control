@@ -1,0 +1,9 @@
+Package: com.34306.buttoned
+Name: buttoned
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: make one click action button into a screenshot
+Maintainer: 34306
+Author: 34306
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
